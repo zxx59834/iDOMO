@@ -1,0 +1,16 @@
+Package: iDOMO
+Type: Package
+Title: Identification of Drug Combinations via Multi-Set Operations
+Version: 0.9.0
+Date: 2023-09-11
+Author: Xianxiao Zhou
+Maintainer: Xianxiao Zhou <xianxiao.zhou@mssm.edu>, Bin Zhang <bin.zhang@mssm.edu>
+Description: This package is developed to rank drug combinations based on disease differential expression signature and drug-induced gene signatures. 
+License: GPL (>= 2) 
+Depends: R (>= 4.3.1), SuperExactTest(<= 0.99.4)
+Imports: GO.db(>= 3.2.2), RSQLite(>= 1.0.0), 
+		utils, stats, grDevices, graphics, org.Hs.eg.db, 
+		DBI(>= 0.3.1), Biobase(>= 2.30.0), EMUDRA
+LazyLoad: yes
+NeedsCompilation: yes
+
