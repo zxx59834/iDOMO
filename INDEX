@@ -1,0 +1,12 @@
+DisDrugOverlap          Overlapping of Disease Signature and Individual
+                        Drug Signatures
+SET.Combn               Calculate drug combination scores based on the
+                        signatures
+TNBCsig                 A Triple Negative Breast Cancer Signature
+Top20DrugSig            Signatures Induced by 20 Drugs
+allGenes                The Whole Gene Set
+combinationSET          Calculate Drug Combination Score for Individual
+                        Drug Pair
+iDOMO-package           Identification of Drug Combinations via
+                        Multi-Set Operations
+makeCombns              Make pair-wise combination for a drug list.
